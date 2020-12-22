@@ -17,7 +17,7 @@
 
 Analista/Desenvolvedor de Software
 
-Mais de 9 anos de experiência em desenvolvimento de softaware
+Mais de 10 anos de experiência em desenvolvimento de softaware
 
 ![](https://img.shields.io/badge/-javascript-22782f?style=flat-square&logo=javascript&logoColor=white)
 
