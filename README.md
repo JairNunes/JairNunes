@@ -18,9 +18,9 @@
 
 > :octocat: [jairnunes.github.io](https://jairnunes.github.io)
 
-Analista/Desenvolvedor de Software
+Full Stack Engineer
 
-Mais de 10 anos de experiência em desenvolvimento de softaware
+More than 10 years of experience in software development
 
 > 
 
